@@ -1,7 +1,7 @@
-# <TERM> Enrollment Data: General Enrollment
-Enrollment data for <TERM> for all undergraduate courses and select graduate courses.
+# Spring 2024 Enrollment Data: General Enrollment
+Enrollment data for Spring 2024 for all undergraduate courses and select graduate courses.
 
-[Click here if you just want to be able to see each individual CSV file and graph.](https://github.com/UCSD-Historical-Enrollment-Data/<TERM>/blob/main/TOC.md)
+[Click here if you just want to be able to see each individual CSV file and graph.](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/TOC.md)
 
 ## Supported Courses
 | Course Level                   | Courses to be Tracked                               |
@@ -14,22 +14,22 @@ Enrollment times can be found [here](https://blink.ucsd.edu/instructors/courses/
 
 | Level                       | Date                                                    |
 | --------------------------- | --------------------------------------------------------|
-| Priorities                  | November 14, 2023                                       |
-| Seniors                     | November 14, 2023 through November 16, 2023             |
-| Juniors                     | November 16, 2023 through November 17, 2023             |
-| Sophomores                  | November 17, 2023 through November 18, 2023             |
-| First-Year                  | November 18, 2023 through November 20, 2023             |
+| Priorities                  | February 17, 2024                                       |
+| Seniors                     | February 17, 2024 through February 20, 2024             |
+| Juniors                     | February 20, 2024 through February 21, 2024             |
+| Sophomores                  | February 21, 2024 through February 22, 2024             |
+| First-Year                  | February 22, 2024                                       |
 
 
 #### Second Pass
 
 | Level                       | Date                                                    |
 | --------------------------- | --------------------------------------------------------|
-| Priorities                  | November 21, 2023                                       |
-| Seniors                     | November 21, 2023 through November 24, 2023             |
-| Juniors                     | November 24, 2023 through November 25, 2023             |
-| Sophomores                  | November 25, 2023 through November 27, 2023             |
-| First-Year                  | November 27, 2023                                       |
+| Priorities                  | February 26, 2024                                       |
+| Seniors                     | February 26, 2024 through February 28, 2024             |
+| Juniors                     | February 28, 2024 through February 29, 2024             |
+| Sophomores                  | February 29, 2024 through March 1, 2024                 |
+| First-Year                  | March 1, 2024                                           |
 
 ## Final Notes
 For more information about the project, including to ask any questions, please go to the [parent repository](https://github.com/ewang2002/UCSDHistEnrollData). 
