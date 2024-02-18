@@ -1,0 +1,7 @@
+# BISP
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| BISP 194 | [csv](https://github.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/blob/main/overall/BISP%20194.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/main/plot_overall/BISP%20194.png) | Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/blob/main/section/BISP%20194_B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/main/plot_section/BISP%20194_B.png)<br>Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/blob/main/section/BISP%20194_A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/main/plot_section/BISP%20194_A.png) |
+| BISP 182 | [csv](https://github.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/blob/main/overall/BISP%20182.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/main/plot_overall/BISP%20182.png) |  |
+| BISP 170 | [csv](https://github.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/blob/main/overall/BISP%20170.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/main/plot_overall/BISP%20170.png) |  |
