@@ -1,0 +1,20 @@
+# LIGN
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| LIGN 175 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LIGN%20175.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LIGN%20175.png) |  |
+| LIGN 148 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LIGN%20148.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LIGN%20148.png) |  |
+| LIGN 165 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LIGN%20165.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LIGN%20165.png) |  |
+| LIGN 238 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LIGN%20238.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LIGN%20238.png) |  |
+| LIGN 101 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LIGN%20101.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LIGN%20101.png) |  |
+| LIGN 8 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LIGN%208.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LIGN%208.png) |  |
+| LIGN 272 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LIGN%20272.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LIGN%20272.png) |  |
+| LIGN 256 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LIGN%20256.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LIGN%20256.png) |  |
+| LIGN 120 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LIGN%20120.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LIGN%20120.png) |  |
+| LIGN 17 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LIGN%2017.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LIGN%2017.png) |  |
+| LIGN 130 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LIGN%20130.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LIGN%20130.png) |  |
+| LIGN 252 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LIGN%20252.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LIGN%20252.png) |  |
+| LIGN 168 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LIGN%20168.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LIGN%20168.png) |  |
+| LIGN 141 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LIGN%20141.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LIGN%20141.png) |  |
+| LIGN 144 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LIGN%20144.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LIGN%20144.png) |  |
+| LIGN 230 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LIGN%20230.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LIGN%20230.png) |  |
