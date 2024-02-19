@@ -1,5 +1,0 @@
-# ERC
-
-| Course | Overall | Section |
-| ------ | ------- | ------- |
-| ERC 20 | [csv](https://github.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/blob/main/overall/ERC%2020.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/main/plot_overall/ERC%2020.png) |  |

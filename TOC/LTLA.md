@@ -1,5 +1,0 @@
-# LTLA
-
-| Course | Overall | Section |
-| ------ | ------- | ------- |
-| LTLA 3 | [csv](https://github.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/blob/main/overall/LTLA%203.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/main/plot_overall/LTLA%203.png) |  |

@@ -1,9 +1,0 @@
-# HIGR
-
-| Course | Overall | Section |
-| ------ | ------- | ------- |
-| HIGR 240 | [csv](https://github.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/blob/main/overall/HIGR%20240.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/main/plot_overall/HIGR%20240.png) |  |
-| HIGR 201 | [csv](https://github.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/blob/main/overall/HIGR%20201.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/main/plot_overall/HIGR%20201.png) |  |
-| HIGR 217C | [csv](https://github.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/blob/main/overall/HIGR%20217C.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/main/plot_overall/HIGR%20217C.png) |  |
-| HIGR 205 | [csv](https://github.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/blob/main/overall/HIGR%20205.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/main/plot_overall/HIGR%20205.png) |  |
-| HIGR 239 | [csv](https://github.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/blob/main/overall/HIGR%20239.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data//Users/ryanbatubara/Desktop/2024Spring/main/plot_overall/HIGR%20239.png) |  |
