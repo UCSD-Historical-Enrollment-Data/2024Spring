@@ -2,8 +2,8 @@
 
 | Course | Overall | Section |
 | ------ | ------- | ------- |
-| LATI 10 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LATI%2010.csv) |  |
-| LATI 130 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LATI%20130.csv) |  |
-| LATI 160 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LATI%20160.csv) |  |
-| LATI 180 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LATI%20180.csv) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/LATI%20180_A.csv)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/LATI%20180_B.csv) |
-| LATI 50 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LATI%2050.csv) |  |
+| LATI 10 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LATI%2010.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LATI%2010.png) |  |
+| LATI 130 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LATI%20130.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LATI%20130.png) |  |
+| LATI 160 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LATI%20160.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LATI%20160.png) |  |
+| LATI 180 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LATI%20180.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LATI%20180.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/LATI%20180_A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_section/LATI%20180_A.png)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/LATI%20180_B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_section/LATI%20180_B.png) |
+| LATI 50 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/LATI%2050.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/LATI%2050.png) |  |

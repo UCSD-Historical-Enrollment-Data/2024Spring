@@ -2,42 +2,42 @@
 
 | Course | Overall | Section |
 | ------ | ------- | ------- |
-| POLI 100E | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20100E.csv) |  |
-| POLI 104P | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20104P.csv) |  |
-| POLI 104U | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20104U.csv) |  |
-| POLI 108 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20108.csv) |  |
-| POLI 110C | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20110C.csv) |  |
-| POLI 11D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%2011D.csv) |  |
-| POLI 120D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20120D.csv) |  |
-| POLI 124A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20124A.csv) |  |
-| POLI 12D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%2012D.csv) |  |
-| POLI 131CR | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20131CR.csv) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/POLI%20131CR_A.csv)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/POLI%20131CR_B.csv) |
-| POLI 136A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20136A.csv) |  |
-| POLI 13DR | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%2013DR.csv) |  |
-| POLI 140D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20140D.csv) |  |
-| POLI 142D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20142D.csv) |  |
-| POLI 145C | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20145C.csv) |  |
-| POLI 150A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20150A.csv) |  |
-| POLI 170A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20170A.csv) |  |
-| POLI 179 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20179.csv) |  |
-| POLI 194 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20194.csv) |  |
-| POLI 194SD | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20194SD.csv) |  |
-| POLI 197SD | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20197SD.csv) |  |
-| POLI 203B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20203B.csv) |  |
-| POLI 214R | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20214R.csv) |  |
-| POLI 219 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20219.csv) |  |
-| POLI 220A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20220A.csv) |  |
-| POLI 233 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20233.csv) |  |
-| POLI 243 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20243.csv) |  |
-| POLI 251 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20251.csv) |  |
-| POLI 257 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20257.csv) |  |
-| POLI 273 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20273.csv) |  |
-| POLI 280 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20280.csv) |  |
-| POLI 281 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20281.csv) |  |
-| POLI 282 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20282.csv) |  |
-| POLI 283 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20283.csv) |  |
-| POLI 285 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20285.csv) |  |
-| POLI 286 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20286.csv) |  |
-| POLI 288 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20288.csv) |  |
-| POLI 30D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%2030D.csv) |  |
-| POLI 5D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%205D.csv) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/POLI%205D_A.csv)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/POLI%205D_B.csv)<br>Section C: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/POLI%205D_C.csv) |
+| POLI 100E | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20100E.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20100E.png) |  |
+| POLI 104P | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20104P.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20104P.png) |  |
+| POLI 104U | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20104U.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20104U.png) |  |
+| POLI 108 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20108.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20108.png) |  |
+| POLI 110C | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20110C.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20110C.png) |  |
+| POLI 11D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%2011D.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%2011D.png) |  |
+| POLI 120D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20120D.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20120D.png) |  |
+| POLI 124A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20124A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20124A.png) |  |
+| POLI 12D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%2012D.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%2012D.png) |  |
+| POLI 131CR | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20131CR.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20131CR.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/POLI%20131CR_A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_section/POLI%20131CR_A.png)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/POLI%20131CR_B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_section/POLI%20131CR_B.png) |
+| POLI 136A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20136A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20136A.png) |  |
+| POLI 13DR | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%2013DR.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%2013DR.png) |  |
+| POLI 140D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20140D.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20140D.png) |  |
+| POLI 142D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20142D.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20142D.png) |  |
+| POLI 145C | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20145C.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20145C.png) |  |
+| POLI 150A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20150A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20150A.png) |  |
+| POLI 170A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20170A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20170A.png) |  |
+| POLI 179 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20179.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20179.png) |  |
+| POLI 194 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20194.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20194.png) |  |
+| POLI 194SD | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20194SD.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20194SD.png) |  |
+| POLI 197SD | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20197SD.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20197SD.png) |  |
+| POLI 203B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20203B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20203B.png) |  |
+| POLI 214R | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20214R.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20214R.png) |  |
+| POLI 219 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20219.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20219.png) |  |
+| POLI 220A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20220A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20220A.png) |  |
+| POLI 233 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20233.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20233.png) |  |
+| POLI 243 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20243.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20243.png) |  |
+| POLI 251 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20251.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20251.png) |  |
+| POLI 257 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20257.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20257.png) |  |
+| POLI 273 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20273.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20273.png) |  |
+| POLI 280 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20280.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20280.png) |  |
+| POLI 281 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20281.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20281.png) |  |
+| POLI 282 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20282.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20282.png) |  |
+| POLI 283 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20283.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20283.png) |  |
+| POLI 285 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20285.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20285.png) |  |
+| POLI 286 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20286.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20286.png) |  |
+| POLI 288 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%20288.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%20288.png) |  |
+| POLI 30D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%2030D.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%2030D.png) |  |
+| POLI 5D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/POLI%205D.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/POLI%205D.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/POLI%205D_A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_section/POLI%205D_A.png)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/POLI%205D_B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_section/POLI%205D_B.png)<br>Section C: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/POLI%205D_C.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_section/POLI%205D_C.png) |
