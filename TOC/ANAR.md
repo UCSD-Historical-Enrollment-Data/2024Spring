@@ -2,10 +2,10 @@
 
 | Course | Overall | Section |
 | ------ | ------- | ------- |
-| ANAR 100 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANAR%20100.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/ANAR%20100.png) |  |
-| ANAR 104 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANAR%20104.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/ANAR%20104.png) |  |
-| ANAR 111 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANAR%20111.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/ANAR%20111.png) |  |
-| ANAR 115 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANAR%20115.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/ANAR%20115.png) |  |
-| ANAR 120 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANAR%20120.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/ANAR%20120.png) |  |
-| ANAR 155 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANAR%20155.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/ANAR%20155.png) |  |
-| ANAR 164 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANAR%20164.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/ANAR%20164.png) |  |
+| ANAR 100 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANAR%20100.csv) |  |
+| ANAR 104 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANAR%20104.csv) |  |
+| ANAR 111 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANAR%20111.csv) |  |
+| ANAR 115 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANAR%20115.csv) |  |
+| ANAR 120 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANAR%20120.csv) |  |
+| ANAR 155 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANAR%20155.csv) |  |
+| ANAR 164 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANAR%20164.csv) |  |

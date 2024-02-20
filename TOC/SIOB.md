@@ -2,11 +2,11 @@
 
 | Course | Overall | Section |
 | ------ | ------- | ------- |
-| SIOB 262 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SIOB%20262.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SIOB%20262.png) |  |
-| SIOB 269 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SIOB%20269.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SIOB%20269.png) |  |
-| SIOB 270 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SIOB%20270.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SIOB%20270.png) |  |
-| SIOB 278 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SIOB%20278.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SIOB%20278.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/SIOB%20278_A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_section/SIOB%20278_A.png)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/SIOB%20278_B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_section/SIOB%20278_B.png) |
-| SIOB 279 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SIOB%20279.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SIOB%20279.png) |  |
-| SIOB 291 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SIOB%20291.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SIOB%20291.png) |  |
-| SIOB 296 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SIOB%20296.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SIOB%20296.png) |  |
-| SIOB 297 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SIOB%20297.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SIOB%20297.png) |  |
+| SIOB 262 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SIOB%20262.csv) |  |
+| SIOB 269 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SIOB%20269.csv) |  |
+| SIOB 270 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SIOB%20270.csv) |  |
+| SIOB 278 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SIOB%20278.csv) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/SIOB%20278_A.csv)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/SIOB%20278_B.csv) |
+| SIOB 279 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SIOB%20279.csv) |  |
+| SIOB 291 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SIOB%20291.csv) |  |
+| SIOB 296 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SIOB%20296.csv) |  |
+| SIOB 297 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SIOB%20297.csv) |  |

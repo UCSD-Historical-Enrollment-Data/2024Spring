@@ -2,9 +2,9 @@
 
 | Course | Overall | Section |
 | ------ | ------- | ------- |
-| MATS 200 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/MATS%20200.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/MATS%20200.png) |  |
-| MATS 201C | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/MATS%20201C.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/MATS%20201C.png) |  |
-| MATS 236 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/MATS%20236.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/MATS%20236.png) |  |
-| MATS 252 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/MATS%20252.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/MATS%20252.png) |  |
-| MATS 261B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/MATS%20261B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/MATS%20261B.png) |  |
-| MATS 295 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/MATS%20295.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/MATS%20295.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/MATS%20295_A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_section/MATS%20295_A.png)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/MATS%20295_B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_section/MATS%20295_B.png) |
+| MATS 200 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/MATS%20200.csv) |  |
+| MATS 201C | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/MATS%20201C.csv) |  |
+| MATS 236 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/MATS%20236.csv) |  |
+| MATS 252 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/MATS%20252.csv) |  |
+| MATS 261B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/MATS%20261B.csv) |  |
+| MATS 295 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/MATS%20295.csv) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/MATS%20295_A.csv)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/section/MATS%20295_B.csv) |

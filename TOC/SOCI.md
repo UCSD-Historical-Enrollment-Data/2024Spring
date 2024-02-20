@@ -2,42 +2,42 @@
 
 | Course | Overall | Section |
 | ------ | ------- | ------- |
-| SOCI 100 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20100.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20100.png) |  |
-| SOCI 103M | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20103M.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20103M.png) |  |
-| SOCI 104 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20104.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20104.png) |  |
-| SOCI 104Q | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20104Q.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20104Q.png) |  |
-| SOCI 106 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20106.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20106.png) |  |
-| SOCI 107 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20107.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20107.png) |  |
-| SOCI 109 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20109.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20109.png) |  |
-| SOCI 111 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20111.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20111.png) |  |
-| SOCI 114 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20114.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20114.png) |  |
-| SOCI 117 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20117.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20117.png) |  |
-| SOCI 120T | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20120T.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20120T.png) |  |
-| SOCI 123 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20123.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20123.png) |  |
-| SOCI 125 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20125.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20125.png) |  |
-| SOCI 126 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20126.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20126.png) |  |
-| SOCI 133 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20133.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20133.png) |  |
-| SOCI 135 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20135.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20135.png) |  |
-| SOCI 136 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20136.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20136.png) |  |
-| SOCI 139 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20139.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20139.png) |  |
-| SOCI 140J | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20140J.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20140J.png) |  |
-| SOCI 142 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20142.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20142.png) |  |
-| SOCI 146 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20146.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20146.png) |  |
-| SOCI 151 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20151.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20151.png) |  |
-| SOCI 156 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20156.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20156.png) |  |
-| SOCI 157 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20157.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20157.png) |  |
-| SOCI 159 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20159.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20159.png) |  |
-| SOCI 161 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20161.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20161.png) |  |
-| SOCI 162 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20162.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20162.png) |  |
-| SOCI 165 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20165.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20165.png) |  |
-| SOCI 171 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20171.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20171.png) |  |
-| SOCI 173 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20173.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20173.png) |  |
-| SOCI 180 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20180.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20180.png) |  |
-| SOCI 183 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20183.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20183.png) |  |
-| SOCI 185 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20185.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20185.png) |  |
-| SOCI 188D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20188D.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20188D.png) |  |
-| SOCI 198RA | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20198RA.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%20198RA.png) |  |
-| SOCI 2 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%202.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%202.png) |  |
-| SOCI 20 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%2020.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%2020.png) |  |
-| SOCI 40 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%2040.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%2040.png) |  |
-| SOCI 60 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%2060.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/SOCI%2060.png) |  |
+| SOCI 100 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20100.csv) |  |
+| SOCI 103M | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20103M.csv) |  |
+| SOCI 104 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20104.csv) |  |
+| SOCI 104Q | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20104Q.csv) |  |
+| SOCI 106 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20106.csv) |  |
+| SOCI 107 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20107.csv) |  |
+| SOCI 109 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20109.csv) |  |
+| SOCI 111 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20111.csv) |  |
+| SOCI 114 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20114.csv) |  |
+| SOCI 117 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20117.csv) |  |
+| SOCI 120T | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20120T.csv) |  |
+| SOCI 123 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20123.csv) |  |
+| SOCI 125 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20125.csv) |  |
+| SOCI 126 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20126.csv) |  |
+| SOCI 133 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20133.csv) |  |
+| SOCI 135 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20135.csv) |  |
+| SOCI 136 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20136.csv) |  |
+| SOCI 139 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20139.csv) |  |
+| SOCI 140J | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20140J.csv) |  |
+| SOCI 142 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20142.csv) |  |
+| SOCI 146 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20146.csv) |  |
+| SOCI 151 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20151.csv) |  |
+| SOCI 156 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20156.csv) |  |
+| SOCI 157 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20157.csv) |  |
+| SOCI 159 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20159.csv) |  |
+| SOCI 161 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20161.csv) |  |
+| SOCI 162 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20162.csv) |  |
+| SOCI 165 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20165.csv) |  |
+| SOCI 171 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20171.csv) |  |
+| SOCI 173 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20173.csv) |  |
+| SOCI 180 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20180.csv) |  |
+| SOCI 183 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20183.csv) |  |
+| SOCI 185 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20185.csv) |  |
+| SOCI 188D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20188D.csv) |  |
+| SOCI 198RA | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%20198RA.csv) |  |
+| SOCI 2 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%202.csv) |  |
+| SOCI 20 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%2020.csv) |  |
+| SOCI 40 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%2040.csv) |  |
+| SOCI 60 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/SOCI%2060.csv) |  |
