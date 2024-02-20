@@ -2,6 +2,6 @@
 
 | Course | Overall | Section |
 | ------ | ------- | ------- |
-| DSE 260B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/DSE%20260B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/DSE%20260B.png) |  |
-| DSE 230 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/DSE%20230.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/DSE%20230.png) |  |
 | DSE 220 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/DSE%20220.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/DSE%20220.png) |  |
+| DSE 230 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/DSE%20230.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/DSE%20230.png) |  |
+| DSE 260B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/DSE%20260B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/DSE%20260B.png) |  |
