@@ -9,6 +9,6 @@
 | ANSC 137 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANSC%20137.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/ANSC%20137.png) |  |
 | ANSC 138 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANSC%20138.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/ANSC%20138.png) |  |
 | ANSC 142 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANSC%20142.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/ANSC%20142.png) |  |
-| ANSC 147 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANSC%20147.csv) |  |
+| ANSC 147 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANSC%20147.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/ANSC%20147.png) |  |
 | ANSC 148 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANSC%20148.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/ANSC%20148.png) |  |
 | ANSC 186 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Spring/blob/main/overall/ANSC%20186.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Spring/main/plot_overall/ANSC%20186.png) |  |
